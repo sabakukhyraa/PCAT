@@ -1,0 +1,22 @@
+{
+  "name": "photo-gallery-node",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabakukhyraa/PCAT.git"
+  },
+  "author": "Kerem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabakukhyraa/PCAT/issues"
+  },
+  "homepage": "https://github.com/sabakukhyraa/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}
